@@ -53,3 +53,5 @@ Deployment screenshots are available in the *Screenshots* folder.
 
 ## Outcome
 Successfully deployed a production-style Azure Virtual Desktop environment with centralized authentication, user profile management, and secure remote desktop access.
+                                                                                                                                Jami Shabareesha
+                                                                                                                                2026
